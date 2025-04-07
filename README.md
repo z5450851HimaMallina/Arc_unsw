@@ -3,12 +3,17 @@
 ## Project Overview
 This repository contains an interactive Excel dashboard and comprehensive report analyzing the Term 3 2024 student survey results for Arc, the student organization at the University of New South Wales (UNSW). The analysis is based on 2,535 student responses collected from October 10-29, 2024, providing critical insights into student engagement, membership patterns, and program effectiveness.
 
-## Why Excel?
 This dashboard was deliberately developed using just Microsoft Excel (Python for data cleaning) rather than more specialized data visualization tools for a **critical reason: stakeholder accessibility**. While more advanced visualization platforms were considered, the primary goal was to create an analytical tool that would be **actively used by all stakeholders, regardless of their technical expertise**.
 
-https://github.com/z5450851HimaMallina/Arc_unsw/blob/main/Dashboard_surveyarc.xlsx
+-Immediate usability without additional training
 
-![image](https://github.com/user-attachments/assets/be2391a0-f764-4c61-9550-e30f34ffc8a6)
+-Ability for stakeholders to explore the data independently
+
+-Easy sharing and modification within the organization's existing workflows
+
+-Sustainable long-term use without specialized software dependencies
+
+Access to Interactive Dashboard: https://github.com/z5450851HimaMallina/Arc_unsw/blob/main/Dashboard_surveyarc.xlsx
 
 ## Key Findings
 
