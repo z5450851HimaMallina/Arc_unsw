@@ -46,8 +46,6 @@ The Excel dashboard provides:
 ## Files in this Repository
 - `Arc_Dashboard_T3_2024.xlsx` - Interactive Excel dashboard
 - `Survey_Report_T3_2024.pdf` - Comprehensive analysis report
-- `Raw_Data/` - Folder containing anonymized survey data
-- `Images/` - Dashboard screenshots and visualizations
 
 ## How to Use
 1. Download the Excel dashboard file and survey report 
