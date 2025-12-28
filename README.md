@@ -70,9 +70,6 @@ The Excel dashboard provides:
 2. Create skills-for-impact programs that address different student priorities
 3. Strengthen pathways from initial engagement to leadership opportunities
 
-## About the Analyst
-This analysis was conducted by [Your Name], Data Analyst focusing on student experience metrics. Dashboard design and visualization by Hima Mallina.
-
 ## Contact
 
 For inquiries or collaborations, feel free to connect with me on [www.linkedin.com/in/himarohinimallina] or check out more of my work on (https://github.com/z5450851HimaMallina).
