@@ -3,7 +3,7 @@
 Access to Interactive Excel Dashboard: https://github.com/z5450851HimaMallina/Arc_unsw/blob/main/Dashboard_surveyarc.xlsx
 
 ## Project Overview
-This repository contains an interactive Excel dashboard and comprehensive report analyzing the Term 3 2024 student survey results for Arc, the student organization at the University of New South Wales (UNSW). The analysis is based on 2,535 student responses collected from October 10-29, 2024, providing critical insights into student engagement, membership patterns, and program effectiveness.
+This repository contains an interactive Excel dashboard and comprehensive report analyzing survey results for an organisation called Arc based in Sydney.The analysis is based on 2,535 responses collected from October 10-29, 2024, providing critical insights into engagement, membership patterns, and program effectiveness.
 
 This dashboard was deliberately developed using just Microsoft Excel (Python for data cleaning) rather than more specialized data visualization tools for a **critical reason: stakeholder accessibility**. While more advanced visualization platforms were considered, the primary goal was to create an analytical tool that would be **actively used by all stakeholders, regardless of their technical expertise**.
 
@@ -16,26 +16,6 @@ This dashboard was deliberately developed using just Microsoft Excel (Python for
 -Sustainable long-term use without specialized software dependencies
 
 
-
-## Key Findings
-
-### Membership & Demographics
-- 95% membership penetration rate among surveyed students
-- Membership composition: 77% undergraduate, 23% postgraduate
-- Nearly equal domestic (53%) and international (47%) students
-- Predominant off-campus population (84%)
-- Significant first-year engagement with sharp decline in subsequent years
-
-### Program Performance
-- Clubs & Societies: Highest engagement program (40% cited as membership reason)
-- Volunteering: Strong satisfaction but low awareness (16% unaware of opportunities)
-- Social Media: Instagram (59.6%) and Facebook (32%) dominate, with potential missed engagement for international students on other platforms
-- Support Services: Legal Help/Advocacy shows high satisfaction but low awareness (35% N/A responses)
-
-### Student Priorities
-- Social connection is the strongest driver (45% of responses)
-- Financial pressures identified as primary concern
-- Different priority patterns between domestic and international students
 
 ## Dashboard Features
 The Excel dashboard provides:
